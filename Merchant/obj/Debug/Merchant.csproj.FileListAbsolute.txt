@@ -1,0 +1,53 @@
+E:\Visual Studio Projects\Merchant\Merchant\bin\Debug\Merchant.exe.config
+E:\Visual Studio Projects\Merchant\Merchant\bin\Debug\Merchant.exe
+E:\Visual Studio Projects\Merchant\Merchant\bin\Debug\Merchant.pdb
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.CompanyInvoice.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.CTransaction.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.DailyInvoice.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.DailyTransaction.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.EditStock.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.PriceList.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.StartFORM.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Properties.Resources.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.Stock.resources
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.exe
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.pdb
+E:\Visual Studio Projects\Merchant\Merchant\obj\Debug\Merchant.csprojResolveAssemblyReference.cache
+D:\Merchant\Merchant\bin\Debug\Merchant.exe.config
+D:\Merchant\Merchant\bin\Debug\Merchant.exe
+D:\Merchant\Merchant\bin\Debug\Merchant.pdb
+D:\Merchant\Merchant\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\Merchant\Merchant\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\Merchant\Merchant\obj\Debug\Merchant.csprojResolveAssemblyReference.cache
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.CompanyInvoice.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.CTransaction.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.DailyInvoice.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.DailyTransaction.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.EditStock.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.LoadingView.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.PriceList.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.StartFORM.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Properties.Resources.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.Stock.resources
+D:\Merchant\Merchant\obj\Debug\Merchant.csproj.GenerateResource.Cache
+D:\Merchant\Merchant\obj\Debug\Merchant.exe
+D:\Merchant\Merchant\obj\Debug\Merchant.pdb
+J:\Merchant\Merchant\bin\Debug\Merchant.exe.config
+J:\Merchant\Merchant\bin\Debug\Merchant.exe
+J:\Merchant\Merchant\bin\Debug\Merchant.pdb
+J:\Merchant\Merchant\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+J:\Merchant\Merchant\obj\Debug\Merchant.csprojResolveAssemblyReference.cache
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.CompanyInvoice.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.CTransaction.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.DailyInvoice.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.DailyTransaction.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.EditStock.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.LoadingView.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.PriceList.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.StartFORM.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Properties.Resources.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.Windows_Form.Stock.resources
+J:\Merchant\Merchant\obj\Debug\Merchant.csproj.GenerateResource.Cache
+J:\Merchant\Merchant\obj\Debug\Merchant.exe
+J:\Merchant\Merchant\obj\Debug\Merchant.pdb
